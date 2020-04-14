@@ -1,0 +1,297 @@
+---------------------------------------------------------------
+[ 2020-04-14T11:20:34+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/Home/memberinviter/index.html
+[运行时间：0.037952s] [吞吐率：26.35req/s] [内存消耗：4,857.28kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T11:24:04+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellergoodsonline/goods_unshow.html?commonid=118
+[运行时间：0.054932s] [吞吐率：18.20req/s] [内存消耗：5,503.87kb] [文件加载：74]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_127.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_127.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T11:46:05+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellergoodsadd/add_step_two.html?class_id=72&t_id=0
+[运行时间：0.083963s] [吞吐率：11.91req/s] [内存消耗：7,892.14kb] [文件加载：85]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:283]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:330]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:636]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:641]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:643]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:644]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:647]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:649]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:650]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:651]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:661]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:662]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:746]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:750]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:757]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:760]
+---------------------------------------------------------------
+[ 2020-04-14T11:46:20+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellergoodsadd/add_step_two.html?class_id=73&t_id=0
+[运行时间：0.070001s] [吞吐率：14.29req/s] [内存消耗：7,579.41kb] [文件加载：82]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:283]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:330]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:636]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:641]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:643]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:644]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:647]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:649]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:650]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:651]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:661]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:662]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:746]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:750]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:757]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:760]
+---------------------------------------------------------------
+[ 2020-04-14T11:52:50+08:00 ] 127.0.0.1 POST 127.0.0.1:8000/index.php/home/sellergoodsonline/edit_jingle.html
+[运行时间：0.048798s] [吞吐率：20.49req/s] [内存消耗：5,432.41kb] [文件加载：73]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_5.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_5.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T11:53:05+08:00 ] 127.0.0.1 POST 127.0.0.1:8000/index.php/home/sellergoodsonline/edit_storage.html
+[运行时间：0.046351s] [吞吐率：21.57req/s] [内存消耗：5,417.84kb] [文件加载：72]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_5.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_5.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T11:53:08+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/5.html
+[运行时间：0.141962s] [吞吐率：7.04req/s] [内存消耗：8,042.46kb] [文件加载：96]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_5.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_5.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T11:57:11+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/13.html
+[运行时间：0.093362s] [吞吐率：10.71req/s] [内存消耗：7,204.97kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_13.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_13.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T12:01:15+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/2.html
+[运行时间：0.099908s] [吞吐率：10.01req/s] [内存消耗：7,182.95kb] [文件加载：92]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_2.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_2.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T12:06:39+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/100.html
+[运行时间：0.093302s] [吞吐率：10.72req/s] [内存消耗：7,206.73kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_100.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_100.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T13:00:23+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellergoodsadd/add_step_two.html?class_id=236&t_id=0
+[运行时间：0.063758s] [吞吐率：15.68req/s] [内存消耗：7,578.62kb] [文件加载：82]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:283]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:330]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:636]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:641]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:643]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:644]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:647]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:649]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:650]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:651]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:661]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:662]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:746]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:750]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:757]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:760]
+---------------------------------------------------------------
+[ 2020-04-14T13:10:05+08:00 ] 127.0.0.1 POST 127.0.0.1:8000/index.php/home/sellercallcenter/save.html
+[运行时间：0.049364s] [吞吐率：20.26req/s] [内存消耗：5,377.56kb] [文件加载：75]
+[ error ] [8]未定义数组索引: store_aftersales[/usr/local/var/www/dsmall/application/home/controller/Sellercallcenter.php:73]
+---------------------------------------------------------------
+[ 2020-04-14T13:10:27+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/compare/index/gids/2%2C3%2C4.html
+[运行时间：0.055676s] [吞吐率：17.96req/s] [内存消耗：6,093.32kb] [文件加载：79]
+[ error ] [8]未定义数组下标: 0[/usr/local/var/www/dsmall/application/home/controller/Compare.php:118]
+[ error ] [8]未定义数组下标: 0[/usr/local/var/www/dsmall/application/home/controller/Compare.php:118]
+[ error ] [8]未定义数组下标: 0[/usr/local/var/www/dsmall/application/home/controller/Compare.php:118]
+[ error ] [8]未定义数组下标: 0[/usr/local/var/www/dsmall/application/home/controller/Compare.php:118]
+[ error ] [8]未定义数组下标: 0[/usr/local/var/www/dsmall/application/home/controller/Compare.php:118]
+[ error ] [8]未定义数组下标: 0[/usr/local/var/www/dsmall/application/home/controller/Compare.php:118]
+---------------------------------------------------------------
+[ 2020-04-14T13:17:09+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/memberinviter/index.html
+[运行时间：0.039634s] [吞吐率：25.23req/s] [内存消耗：4,857.54kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T13:17:18+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/memberinviter/index.html
+[运行时间：0.040762s] [吞吐率：24.53req/s] [内存消耗：4,857.54kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T13:17:35+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/memberinviter/index.html
+[运行时间：0.040622s] [吞吐率：24.62req/s] [内存消耗：4,857.54kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T13:44:23+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellergoodsadd/add_step_two.html?class_id=75&t_id=1
+[运行时间：0.067332s] [吞吐率：14.85req/s] [内存消耗：7,621.81kb] [文件加载：83]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:283]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:330]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:630]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:636]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:641]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:643]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:644]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:647]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:649]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:650]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:651]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:652]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:661]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:662]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:746]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:750]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:757]
+[ error ] [8]未定义变量: goods[/usr/local/var/www/dsmall/runtime/temp/2f6a6eadd88edef089fbac56a098acdf.php:760]
+---------------------------------------------------------------
+[ 2020-04-14T13:47:25+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/126.html
+[运行时间：0.096643s] [吞吐率：10.35req/s] [内存消耗：7,208.23kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_126.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_126.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:04:06+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellersetting/setting.html
+[运行时间：0.247993s] [吞吐率：4.03req/s] [内存消耗：5,639.16kb] [文件加载：81]
+[ error ] [2]imagecreatefromstring(): Data is not in a recognized format[/usr/local/var/www/dsmall/application/home/controller/Sellersetting.php:125]
+---------------------------------------------------------------
+[ 2020-04-14T14:04:37+08:00 ] 127.0.0.1 POST 127.0.0.1:8000/index.php/home/sellersetting/setting.html
+[运行时间：0.438283s] [吞吐率：2.28req/s] [内存消耗：5,385.59kb] [文件加载：79]
+[ error ] [2]imagecreatefromstring(): Data is not in a recognized format[/usr/local/var/www/dsmall/application/home/controller/Sellersetting.php:125]
+[ error ] [2]imagecreatefromstring(): Data is not in a recognized format[/usr/local/var/www/dsmall/application/home/controller/Sellersetting.php:125]
+---------------------------------------------------------------
+[ 2020-04-14T14:04:40+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/sellersetting/setting.html
+[运行时间：0.220470s] [吞吐率：4.54req/s] [内存消耗：5,442.95kb] [文件加载：78]
+[ error ] [2]imagecreatefromstring(): Data is not in a recognized format[/usr/local/var/www/dsmall/application/home/controller/Sellersetting.php:125]
+---------------------------------------------------------------
+[ 2020-04-14T14:13:16+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.053716s] [吞吐率：18.62req/s] [内存消耗：5,292.15kb] [文件加载：79]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:13:16+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.082960s] [吞吐率：12.05req/s] [内存消耗：5,141.61kb] [文件加载：78]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:13:24+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/Home/goods/index/goods_id/124.html
+[运行时间：0.099522s] [吞吐率：10.05req/s] [内存消耗：7,210.27kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:16:05+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/Home/memberinviter/index.html
+[运行时间：0.034864s] [吞吐率：28.68req/s] [内存消耗：4,855.80kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T14:17:01+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.048350s] [吞吐率：20.68req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:17:01+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.073247s] [吞吐率：13.65req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:19+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/Home/goods/index/goods_id/124.html
+[运行时间：0.095488s] [吞吐率：10.47req/s] [内存消耗：7,208.50kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:25+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.051547s] [吞吐率：19.40req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:25+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.076518s] [吞吐率：13.07req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:32+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.042870s] [吞吐率：23.33req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:32+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.072986s] [吞吐率：13.70req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:48+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/Home/goods/index/goods_id/124.html
+[运行时间：0.096021s] [吞吐率：10.41req/s] [内存消耗：7,208.50kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:58+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.044232s] [吞吐率：22.61req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:22:58+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.071623s] [吞吐率：13.96req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:03+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.044158s] [吞吐率：22.65req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:03+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.072353s] [吞吐率：13.82req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:06+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.049613s] [吞吐率：20.16req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:06+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.074724s] [吞吐率：13.38req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:13+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.044285s] [吞吐率：22.58req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:13+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.072299s] [吞吐率：13.83req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:18+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_order/group_id/1/is_vr/0.html
+[运行时间：0.044584s] [吞吐率：22.43req/s] [内存消耗：4,992.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:23:18+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/showgroupbuy/groupbuy_evaluate/commonid/115.html
+[运行时间：0.072001s] [吞吐率：13.89req/s] [内存消耗：5,139.62kb] [文件加载：76]
+[ error ] [8]未定义数组索引: groupbuy_vr_classes[/usr/local/var/www/dsmall/application/common/model/Groupbuy.php:721]
+---------------------------------------------------------------
+[ 2020-04-14T14:24:08+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/103.html
+[运行时间：0.100929s] [吞吐率：9.91req/s] [内存消耗：7,206.93kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_103.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_103.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:24:54+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/68.html
+[运行时间：0.101022s] [吞吐率：9.90req/s] [内存消耗：7,206.67kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_68.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_68.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:28:46+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/memberinviter/index.html
+[运行时间：0.040567s] [吞吐率：24.65req/s] [内存消耗：4,857.58kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T14:50:05+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/124.html
+[运行时间：0.100950s] [吞吐率：9.91req/s] [内存消耗：7,221.96kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T14:50:21+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/goods/index/goods_id/124.html
+[运行时间：0.093849s] [吞吐率：10.66req/s] [内存消耗：7,221.96kb] [文件加载：93]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_csv_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1311]
+[ error ] [2]unlink(/usr/local/var/www/dsmall/public/uploads/home/store/taobao/goods_image_124.zip): No such file or directory[/usr/local/var/www/dsmall/application/common/model/Goods.php:1312]
+---------------------------------------------------------------
+[ 2020-04-14T15:18:43+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/memberinviter/index.html
+[运行时间：0.056828s] [吞吐率：17.60req/s] [内存消耗：4,929.52kb] [文件加载：76]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
+---------------------------------------------------------------
+[ 2020-04-14T15:19:12+08:00 ] 127.0.0.1 GET 127.0.0.1:8000/index.php/home/memberinviter/index.html
+[运行时间：0.038866s] [吞吐率：25.73req/s] [内存消耗：4,867.62kb] [文件加载：73]
+[ error ] [0]致命错误: Class 'app\api\controller\WechatApi' not found[/usr/local/var/www/dsmall/application/common/model/Inviter.php:95]
